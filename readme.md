@@ -4,7 +4,7 @@ Environment:
 3. Boost libraries need to be introduced,whose version is 1.68.0. compile x64.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Arithmetic Files List£º               Type                                                                       Information
+Arithmetic Files ListÂ£Âº               Type                                                                       Information
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
          targetver.h                     IDE                    show Windows platform adaption
          stdafx.h                                                   include common libraries
